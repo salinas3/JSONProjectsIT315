@@ -1,69 +1,69 @@
 {
-"Smoothies": [
-	{
-		"name": "Mango Spinach Smoothie",
-		"duration": "5:00 mins",
-		"servings": "1 serving",
-		"calories": "422 kcal",
-		"ingredients": "1 cup of very ripe mango, 1 ripe banana frozen, 2 large handfuls of spinach, 1 inch piece fresh ginger peeled, 1 cup orange juice, ½ cup milk of choice, 1 teaspoon maca powder and 1 teaspoon vanilla.",
-		"steps": "Combine all ingredients in a high powder blender except the passion fruit. Blend until completely smooth and no chunks remain. Add a handful of ice and blend once more. Pour into a glass and enjoy!",
-		"image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Mango-Spinach-Smoothie-1-1.jpg"
-},
-{
-		"name": "Strawberry Coconut Smoothie",
-		"duration": "5:00 mins",
-		"servings": "1 serving",
-		"calories": "346 kcal",
-		"ingredients": "1 cup coconut milk, 1 frozen banana sliced, 2 cups frozen strawberries, 1 teaspoon vanilla extract and 1 scoop collagen peptides (optional).",
-		"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
-		"image":"https://cookeatpaleo.com/wp-content/uploads/2014/02/strawberry-coconut-smoothie680x680-3.jpg"
+	
+	"Smoothies": [
+		{
+			"name": "Mango Spinach Smoothie",
+			"duration": "5:00 mins",
+			"servings": "1 serving",
+			"calories": "422 kcal",
+			"ingredients": "1 cup of very ripe mango, 1 ripe banana frozen, 2 large handfuls of spinach, 1 inch piece fresh ginger peeled, 1 cup orange juice, ½ cup milk of choice, 1 teaspoon maca powder and 1 teaspoon vanilla.",
+			"steps": "Combine all ingredients in a high powder blender except the passion fruit. Blend until completely smooth and no chunks remain. Add a handful of ice and blend once more. Pour into a glass and enjoy!",
+			"image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Mango-Spinach-Smoothie-1-1.jpg"
+		},
+		{
+			"name": "Strawberry Coconut Smoothie",
+			"duration": "5:00 mins",
+			"servings": "1 serving",
+			"calories": "346 kcal",
+			"ingredients": "1 cup coconut milk, 1 frozen banana sliced, 2 cups frozen strawberries, 1 teaspoon vanilla extract and 1 scoop collagen peptides (optional).",
+			"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
+			"image":"https://cookeatpaleo.com/wp-content/uploads/2014/02/strawberry-coconut-smoothie680x680-3.jpg"
 
-},
-{ 	
-		"name":"Green Smoothie",
-		"duration": "12:00 mins",
-		"servings": "1 serving",
-		"calories": "570 kcal",
-		"ingredients": "½ medium peeled avocado, 1 cup spinach, 1 frozen banana, ¼ cup frozen mango or pineapple chunks, 1 tablespoon raw hemp seeds, 1 teaspoon maca powder, 1 scoop protein powder (optional), 1 cup unsweetened nut milk and fresh berries and granola, for garnish.",
-		"steps": "Combine all ingredients in a blender except the fresh berries and granola. Blend until completely smooth. Pour into a glass and add the fresh berries and granola. Enjoy!",
-		"image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Mango-Spinach-Smoothie-4-2.jpg"
-	},
-{ 	
-		"name":"Cinnamon Apple Smoothie",
-		"duration": "10:00 mins",
-		"servings": "2 servings",
-		"calories": "210 kcal",
-		"ingredients":"2 cups fresh apple chunks, 1 ripe banana, ½ cup Greek yogurt, ¼ cup milk of choice, 8 ice cubes, ½ teaspoon vanilla extract, ¼ teaspoon cinnamon and ½ tablespoon maple syrup.",
-		"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
-		"image": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Apple-Smoothie-004.jpg"
-},
-
-{ 	
-		"name":"Oatmeal Smoothie",
-		"duration": "7:00 mins",
-		"servings": "1 serving",
-		"calories": "370 kcal",
-		"ingredients":"¾ cup Old Fashioned rolled oats, 1 tablespoon peanut butter, ½ cup Greek yogurt, ½ cup milk of choice, 1 ½ ripe bananas, 1 cup frozen pineapple, ¼ teaspoon vanilla extract, ½  teaspoon cinnamon, 8 ice cubes and ½ tablespoon maple syrup.",
-		"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
-		"image": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Apple-Smoothie-004.jpg"
-	},
-{ 	
-		"name":"Chocolate Banana Smoothie",
-		"duration": "10:00 mins",
-		"servings": "1 serving",
-		"calories": "192 kcal",
-		"ingredients": "½ cup milk of choice, ¼ cup Greek yogurt, 2 medium ripe bananas, 1 ½ cups ice, ¼ cup cocoa powder, 1 ½ tablespoons maple syrup, ½ teaspoon vanilla extract and 1 tablespoon peanut butter.",
-		"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
-		"image":"https://www.acouplecooks.com/wp-content/uploads/2020/10/Chocolate-Banana-Spritzer-002.jpg"
-	},
-{ 	
-		"name":"Acai Smoothie",
-		"duration": "12:00 mins",
-		"servings": "1 serving",
-		"calories": "249 kcal",
-		"ingredients": "7 ounces frozen unsweetened acai pulp, 1 tablespoon lime juice, ¼ cup cold water, 1 cup pineapple chunks, ½ cup mango, 1 large banana and for the garnish: almond butter, sliced strawberries, diced mango, blueberries, large coconut flakes and fresh mint.",
-		"steps": "Combine all ingredients in the blender and blend until smooth. Add a of bit colder water if necessary to blend into a puree and garnish. Enjoy!",
-		"image": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Acai-Smoothie-007.jpg"
-}
-]	
+		},
+		{ 	
+			"name":"Green Smoothie",
+			"duration": "12:00 mins",
+			"servings": "1 serving",
+			"calories": "570 kcal",
+			"ingredients": "½ medium peeled avocado, 1 cup spinach, 1 frozen banana, ¼ cup frozen mango or pineapple chunks, 1 tablespoon raw hemp seeds, 1 teaspoon maca powder, 1 scoop protein powder (optional), 1 cup unsweetened nut milk and fresh berries and granola, for garnish.",
+			"steps": "Combine all ingredients in a blender except the fresh berries and granola. Blend until completely smooth. Pour into a glass and add the fresh berries and granola. Enjoy!",
+			"image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/04/Mango-Spinach-Smoothie-4-2.jpg"
+		},
+		{ 	
+			"name":"Cinnamon Apple Smoothie",
+			"duration": "10:00 mins",
+			"servings": "2 servings",
+			"calories": "210 kcal",
+			"ingredients":"2 cups fresh apple chunks, 1 ripe banana, ½ cup Greek yogurt, ¼ cup milk of choice, 8 ice cubes, ½ teaspoon vanilla extract, ¼ teaspoon cinnamon and ½ tablespoon maple syrup.",
+			"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
+			"image": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Apple-Smoothie-004.jpg"
+		},
+		{ 	
+			"name":"Oatmeal Smoothie",
+			"duration": "7:00 mins",
+			"servings": "1 serving",
+			"calories": "370 kcal",
+			"ingredients":"¾ cup Old Fashioned rolled oats, 1 tablespoon peanut butter, ½ cup Greek yogurt, ½ cup milk of choice, 1 ½ ripe bananas, 1 cup frozen pineapple, ¼ teaspoon vanilla extract, ½  teaspoon cinnamon, 8 ice cubes and ½ tablespoon maple syrup.",
+			"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
+			"image": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Apple-Smoothie-004.jpg"
+		},
+		{ 	
+			"name":"Chocolate Banana Smoothie",
+			"duration": "10:00 mins",
+			"servings": "1 serving",
+			"calories": "192 kcal",
+			"ingredients": "½ cup milk of choice, ¼ cup Greek yogurt, 2 medium ripe bananas, 1 ½ cups ice, ¼ cup cocoa powder, 1 ½ tablespoons maple syrup, ½ teaspoon vanilla extract and 1 tablespoon peanut butter.",
+			"steps": "Combine all ingredients in the blender and blend until smooth. Enjoy!",
+			"image":"https://www.acouplecooks.com/wp-content/uploads/2020/10/Chocolate-Banana-Spritzer-002.jpg"
+		},
+		{ 	
+			"name":"Acai Smoothie",
+			"duration": "12:00 mins",
+			"servings": "1 serving",
+			"calories": "249 kcal",
+			"ingredients": "7 ounces frozen unsweetened acai pulp, 1 tablespoon lime juice, ¼ cup cold water, 1 cup pineapple chunks, ½ cup mango, 1 large banana and for the garnish: almond butter, sliced strawberries, diced mango, blueberries, large coconut flakes and fresh mint.",
+			"steps": "Combine all ingredients in the blender and blend until smooth. Add a of bit colder water if necessary to blend into a puree and garnish. Enjoy!",
+			"image": "https://www.acouplecooks.com/wp-content/uploads/2020/09/Acai-Smoothie-007.jpg"
+		}
+	]	
 }
